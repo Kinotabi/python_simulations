@@ -12,4 +12,5 @@ Now working on
                         arXiv preprint arXiv:1412.3555.
                 Che, Z., Purushotham, S., Cho, K., Sontag, D., & Liu, Y. (2018). Recurrent neural networks for multivariate time series with missing 
                         values. Scientific reports, 8(1), 1-12.
+                https://blog.naver.com/PostView.naver?blogId=beyondlegend&logNo=222515160840&parentCategoryNo=&categoryNo=93&viewDate=&isShowPopularPosts=true&from=search
         - Machine learning algorithms 
